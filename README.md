@@ -10,8 +10,22 @@ Our internal product teams use the design system in service of our customers, fa
 
 ## Design Principles
 
-- **Inclusive:** Inclusivity and accessibility is the highest priority.
-- **Purposeful:** UIs should consist of purpose-driven elements and components. Experiences are as simple and user-friendly as possible.
-- **Hierarchy & Space:** Typography and UI/page elements & components make use of hierarchy, negative space and padding to help provide the clearest navigability and meaning to users.
-- **Fun & Delight:** While blocGLOBAL always strives to maintain the highest professionalism, we do it with friendly & casual language and enjoyable to use functionality.
-- **Consistency:** Every component derived from combining those defined in this system must align with the above principles. When in doubt, contact the friendly UX team.
+### Inclusive
+
+Inclusivity and accessibility is the highest priority.
+
+### Purposeful
+
+UIs should consist of purpose-driven elements and components. Experiences are as simple and user-friendly as possible.
+
+### Hierarchy & Space
+
+Typography and UI/page elements & components make use of hierarchy, negative space and padding to help provide the clearest navigability and meaning to users.
+
+### Fun & Delight
+
+While blocGLOBAL always strives to maintain the highest professionalism, we do it with friendly & casual language and enjoyable to use functionality.
+
+### Consistency
+
+Every component derived from combining those defined in this system must align with the above principles. When in doubt, contact the friendly UX team.
