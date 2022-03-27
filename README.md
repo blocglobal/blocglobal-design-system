@@ -1,4 +1,6 @@
-# blocGLOBAL Design System
+# blocGLOBAL Design System _(wip)_
+
+[Checklist](https://www.designsystemchecklist.com/export/ZGwtYnJhbmQtdmlzaW9uLGRsLWJyYW5kLXByaW5jaXBsZXMsZGwtYnJhbmQtdG9uZSxkbC1sb2dvLW1vbm8=)
 
 ## Purpose Statement
 
